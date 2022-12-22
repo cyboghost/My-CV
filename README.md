@@ -8,11 +8,11 @@
   <br>
 </h1>
 
-<h4 align="center">Great men possesses great power. I believe I am great at whatever I do. <br>Visit my website <a href="https://cyblock.dev" target="_blank">Electron</a>.</h4>
+<h4 align="center">Great men possesses great power. I believe I am great at whatever I do. <br>Visit my website <a href="https://cyblock.dev" target="_blank">Cyblock.dev</a>.</h4>
 
 <p align="center">
   <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+    <img src="https://img.shields.io/badge/$-Cashapp-000080.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
   <a href="#key-features">About Me</a> •
   <a href="#Work Experience">Work Experience</a> •
   <a href="#Skils">Skills</a> •
-  <a href="#Support">Contact</a> •
+  <a href="#Support">Support</a> •
   <a href="#license">License</a>
 </p>
 
@@ -61,6 +61,14 @@ Innovation is common, but invention is rare. I work as a CEO, and full stack dev
 
 I'm honored to be in Cyblock's journey.
 
+## Skills
+
+* Experienced with System Virtualization
+* Full knowledge of Python, Mysql, and Mongo DB
+* Resilience, and Great Commuication
+* Intelligence
+* HTML, CSS, and Javascript knowledge
+
 ## Support
 
 * +1 (660) 232-2676
@@ -81,7 +89,7 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [cyblock.dev](https://www.cyblock.dev) &nbsp;&middot;&nbsp;
+> GitHub [@cyblock-dev](https://github.com/cyblock-dev) &nbsp;&middot;&nbsp;
+> Twitter [@cyblockdev](https://twitter.com/cyblockdev)
 
